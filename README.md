@@ -44,7 +44,7 @@
 |  Тестирование ПО с нуля. Теория + практика. Уровень PRO         | 07/2025 - 11/2025 |
 
 
-<h2>Test Artifacts</h2>
+<h2>Тестовые артефакты</h2>
 <ul>
   <li><a href="https://github.com/Elena-vgp/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
   <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST and SOAP via Postman</li>
