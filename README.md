@@ -57,7 +57,7 @@
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/елена-сергиенко-21663a338"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://t.me/olyaskh"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href="mailto:o.skhrkv@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="https://t.me/Vgplena"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:vgplenas@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
 
