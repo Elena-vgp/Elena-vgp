@@ -39,7 +39,9 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-|                                                                 | 02/2022 - 03/2022 |
+|  Яндекс практикум (Инженер по тестированию)                     | 04/2024 - 08/2024 |
+|  Тестирование ПО с Нуля (Теория + Практика) Артёма Русов        | 04/2024 - 09/2024 |
+|  Тестирование ПО с нуля. Теория + практика. Уровень PRO         | 07/2025 - 11/2025 |
 
 
 <h2>Test Artifacts</h2>
@@ -54,7 +56,7 @@
   <li><a href="https://github.com/Elena-vgp/git">Git</a> – basic version control commands</li>
 </ul>
 
-<h3 align="center">📫 Let’s connect and collaborate!</h3>
+<h3 align="center">🤝 Социальные сети</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/елена-сергиенко-21663a338"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://t.me/Vgplena"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
