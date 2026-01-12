@@ -46,14 +46,14 @@
 
 <h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://github.com/Elena-vgp/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
-  <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/Elena-vgp/sql">MySQL</a> – queries and DB validation scripts</li>
-  <li><a href="https://github.com/Elena-vgp/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/Elena-vgp/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/Elena-vgp/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/Elena-vgp/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/Elena-vgp/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/Elena-vgp/web_testing">Webshop Testing</a> – иследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST и SOAP через Postman</li>
+  <li><a href="https://github.com/Elena-vgp/sql">MySQL</a> – вопросы и сценарии проверки базы данных</li>
+  <li><a href="https://github.com/Elena-vgp/mongodb">MongoDB</a> – NoSQL вопросы и упражения</li>
+  <li><a href="https://github.com/Elena-vgp/mobile_testing">Android App Testing</a> – ручные тесты и отчёты об ошибках</li>
+  <li><a href="https://github.com/Elena-vgp/charlesproxy">Charles Proxy</a> – имитация ответов и проверка сети</li>
+  <li><a href="https://github.com/Elena-vgp/bash">Bash</a> – Скрипты для задач контроля качества</li>
+  <li><a href="https://github.com/Elena-vgp/git">Git</a> – основные команды управления версиями</li>
 </ul>
 
 <h3 align="center">🤝 Социальные сети</h3>
