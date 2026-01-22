@@ -46,7 +46,7 @@
 
 <h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://github.com/Elena-vgp/web_testing">Webshop Testing</a> – иследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/Elena-vgp/web_testing">Webshop Testing</a> – исcледовательское и функциональное тестирование</li>
   <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST и SOAP через Postman</li>
   <li><a href="https://github.com/Elena-vgp/sql">MySQL</a> – вопросы и сценарии проверки базы данных</li>
   <li><a href="https://github.com/Elena-vgp/mongodb">MongoDB</a> – NoSQL вопросы и упражения</li>
