@@ -44,7 +44,7 @@
 |  Тестирование ПО с нуля. Теория + практика. Уровень PRO         | 07/2025 - 11/2025 |
 
 
-<h2>Тестовые артефакты</h2>
+<!--м<h2>Тестовые артефакты</h2>
 <ul>
   <li><a href="https://github.com/Elena-vgp/web_testing">Webshop Testing</a> – исcледовательское и функциональное тестирование</li>
   <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST и SOAP через Postman</li>
@@ -54,7 +54,7 @@
   <li><a href="https://github.com/Elena-vgp/charlesproxy">Charles Proxy</a> – имитация ответов и проверка сети</li>
   <li><a href="https://github.com/Elena-vgp/bash">Bash</a> – Скрипты для задач контроля качества</li>
   <li><a href="https://github.com/Elena-vgp/git">Git</a> – основные команды управления версиями</li>
-</ul>
+</ul> -->
 
 <h3 align="center">🤝 Социальные сети</h3>
 <p align="center">
