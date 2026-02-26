@@ -48,8 +48,8 @@
 <h2>Тестовые артефакты</h2>
 <ul>
   <li><a href="https://docs.google.com/spreadsheets/d/1vgiIhx2cwrAfW8tc2uL823vGu93-DST1eElqpOPrr1k/edit?gid=0#gid=0" target="_blank">Мобильное приложение "Shopping List"</a> – исследовательское и функциональное тестирование</li>
-  <!--м <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST и SOAP через Postman</li>
-  <li><a href="https://github.com/Elena-vgp/sql">MySQL</a> – вопросы и сценарии проверки базы данных</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1QQz1Q5PH8beFkKNW0uu4fZNZSYGZMJ3HxNpySLVwHRI/edit?gid=0#gid=0" target="_blank">Пример применения попарного тестирования</a> – для сайта intern.demoshopping.ru</li>
+ <!--м <li><a href="https://github.com/Elena-vgp/sql">MySQL</a> – вопросы и сценарии проверки базы данных</li>
   <li><a href="https://github.com/Elena-vgp/mongodb">MongoDB</a> – NoSQL вопросы и упражения</li>
   <li><a href="https://github.com/Elena-vgp/mobile_testing">Android App Testing</a> – ручные тесты и отчёты об ошибках</li>
   <li><a href="https://github.com/Elena-vgp/charlesproxy">Charles Proxy</a> – имитация ответов и проверка сети</li>
