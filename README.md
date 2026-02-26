@@ -47,7 +47,7 @@
 
 <h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/1vgiIhx2cwrAfW8tc2uL823vGu93-DST1eElqpOPrr1k/edit?gid=0#gid=0">Мобильное приложение "Shopping List"</a> – исcледовательское и функциональное тестирование</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1vgiIhx2cwrAfW8tc2uL823vGu93-DST1eElqpOPrr1k/edit?gid=0#gid=0" target="_blank">Мобильное приложение "Shopping List"</a> – исcледовательское и функциональное тестирование</li>
   <!--м <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST и SOAP через Postman</li>
   <li><a href="https://github.com/Elena-vgp/sql">MySQL</a> – вопросы и сценарии проверки базы данных</li>
   <li><a href="https://github.com/Elena-vgp/mongodb">MongoDB</a> – NoSQL вопросы и упражения</li>
