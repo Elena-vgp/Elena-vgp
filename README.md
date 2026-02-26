@@ -45,10 +45,10 @@
 |  Тестирование ПО с нуля. Теория + практика. Уровень PRO         | 07/2025 - 11/2025 |
 
 
-<!--м<h2>Тестовые артефакты</h2>
+<h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://github.com/Elena-vgp/web_testing">Webshop Testing</a> – исcледовательское и функциональное тестирование</li>
-  <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST и SOAP через Postman</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1vgiIhx2cwrAfW8tc2uL823vGu93-DST1eElqpOPrr1k/edit?gid=0#gid=0">Мобильное приложение "Shopping List"</a> – исcледовательское и функциональное тестирование</li>
+  <!--м <li><a href="https://github.com/Elena-vgp/api_testing">API Testing</a> – REST и SOAP через Postman</li>
   <li><a href="https://github.com/Elena-vgp/sql">MySQL</a> – вопросы и сценарии проверки базы данных</li>
   <li><a href="https://github.com/Elena-vgp/mongodb">MongoDB</a> – NoSQL вопросы и упражения</li>
   <li><a href="https://github.com/Elena-vgp/mobile_testing">Android App Testing</a> – ручные тесты и отчёты об ошибках</li>
